@@ -1,9 +1,8 @@
 # super-rentals
 
-*Visit https://account.mapbox.com/auth/signup/?route-to=%22https://account.mapbox.com/%22 and create an account. 
-*Then mailbox will provide an access token copy that token and replace with the value of the existing environment variable "ENV.MAPBOX_ACCESS_TOKEN" in 
-"config -> envionment.js". 
-*Please note that once this change is done, the application restart is mandatory
+* Visit https://account.mapbox.com/auth/signup/?route-to=%22https://account.mapbox.com/%22 and create an account. 
+* Then mailbox will provide an access token copy that token and replace with the value of the existing environment variable "ENV.MAPBOX_ACCESS_TOKEN" in "config -> envionment.js". 
+* Please note that once this change is done, the application restart is mandatory
 
 
 
