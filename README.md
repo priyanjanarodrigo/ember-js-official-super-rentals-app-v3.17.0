@@ -1,10 +1,13 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+*Visit https://account.mapbox.com/auth/signup/?route-to=%22https://account.mapbox.com/%22 and create an account. 
+*Then mailbox will provide an access token copy that token and replace with the value of the existing environment variable "ENV.MAPBOX_ACCESS_TOKEN" in 
+"config -> envionment.js". 
+*Please note that once this change is done, the application restart is mandatory
+
+
 
 ## Prerequisites
-
 You will need the following things properly installed on your computer.
 
 * [Git](https://git-scm.com/)
