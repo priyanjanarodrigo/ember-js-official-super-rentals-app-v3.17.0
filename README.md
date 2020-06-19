@@ -1,7 +1,9 @@
-# super-rentals
+# ember-js-official-super-rentals-app-v3.17.0
+
 * This is the ember official guide's super-rentals app which has been developed using ember version 3.17.0
 
 ## Environment variables configuration
+
 * Visit https://account.mapbox.com/auth/signup/?route-to=%22https://account.mapbox.com/%22 and create an account. 
 * Then Mapbox will provide an access token copy that token and replace with the value of the existing environment variable "ENV.MAPBOX_ACCESS_TOKEN" in "config -> envionment.js". 
 * Please note that once this change is done, the application restart is mandatory
@@ -59,4 +61,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-# ember-js-official-super-rentals-app-v3.17.0
