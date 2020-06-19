@@ -1,7 +1,9 @@
 # super-rentals
+* This is the ember official guide's super-rentals app which has been developed using ember version 3.17.0
 
+# Environment variables configuration
 * Visit https://account.mapbox.com/auth/signup/?route-to=%22https://account.mapbox.com/%22 and create an account. 
-* Then mailbox will provide an access token copy that token and replace with the value of the existing environment variable "ENV.MAPBOX_ACCESS_TOKEN" in "config -> envionment.js". 
+* Then Mapbox will provide an access token copy that token and replace with the value of the existing environment variable "ENV.MAPBOX_ACCESS_TOKEN" in "config -> envionment.js". 
 * Please note that once this change is done, the application restart is mandatory
 
 
